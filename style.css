@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    }
+.container{
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+.table{
+    margin-top: 30px;
+}
+.head{
+    color: aliceblue;
+    font-style: italic;
+}
+#tbody{
+    color: aliceblue;
+}
+
+#butn{
+    margin-top: 20px;
+    padding: 0%;
+}
